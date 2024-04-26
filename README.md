@@ -1,9 +1,9 @@
+# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+
 ### Name : Prajin S
 ### Register Number : 212223230151
 ### Date : 22-04-2024
 ### Department : Artificial Intelligence and Data Sceince
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
 ### Aim :
 To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
