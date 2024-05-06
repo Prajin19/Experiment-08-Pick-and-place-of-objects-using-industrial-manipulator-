@@ -2,7 +2,7 @@
 
 ### Name : Prajin S
 ### Register Number : 212223230151
-### Date : 22-04-2024
+### Date : 22-05-2024
 ### Department : Artificial Intelligence and Data Sceince
 ### Aim :
 To pick and place a regular shape using two finger gripper on the conveyor belt 
